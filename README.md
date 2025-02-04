@@ -1,6 +1,7 @@
 # TextToSpeech
 
 ![TextToSpeech](https://img.shields.io/badge/Python-3.x-blue.svg)
+![License](https://github.com/AMANGAUD2004/TextToSpeech/blob/main/LICENSE)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 A simple and efficient **Text to Speech (TTS)** conversion project that converts text into natural-sounding speech using Python.
